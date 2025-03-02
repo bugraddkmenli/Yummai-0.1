@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "newArchEnabled": true,
+    "extra": {
+      "deepseekApiKey": "sk-4a81db1ef8dd4878a453dc4766f5dd6c",
+      "supabaseUrl": "https://qoezcwfztmkgdrrezigx.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFvZXpjd2Z6dG1rZ2RycmV6aWd4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDA4NDg3MTcsImV4cCI6MjA1NjQyNDcxN30.XyhsSKxZhWmB5_QIScl-n1kNh0GGZGF2Sf9qH1RjlcU",
+      "eas": {
+        "projectId": "your-project-id"
+      }
+    },
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "Yummai",
+    "slug": "Yummai"
+  }
+}
